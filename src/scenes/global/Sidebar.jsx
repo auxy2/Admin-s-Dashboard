@@ -110,7 +110,7 @@ const Sidebar = () => {
                   Isihaq Abdullahi
                 </Typography>
                 <Typography variant="h5" color={colors.greenAccent[500]}>
-                  VP Fancy Admin
+                  Ishaq Abdullahi 
                 </Typography>
               </Box>
             </Box>
